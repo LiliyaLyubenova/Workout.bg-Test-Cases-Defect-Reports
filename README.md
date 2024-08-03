@@ -1,4 +1,4 @@
-**Test cases**
+**Test cases and report defects**
 
 **Welcome to the test cases and defect reports repository for the website www.workout.bg!**
 
