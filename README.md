@@ -1,8 +1,8 @@
 **Test cases**
 
-**Welcome to the test cases repository for the website www.workout.bg!**
+**Welcome to the test cases and defect reports repository for the website www.workout.bg!**
 
-**All test cases are located in ''Issues''**
+**All defect report and test cases are located in ''Issues''**
 
 **About**
 
